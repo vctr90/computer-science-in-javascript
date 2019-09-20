@@ -32,7 +32,7 @@ function assertListValues(list, values) {
 // Tests
 //-----------------------------------------------------------------------------
 
-describe("LinkedList", () => {
+describe.only("LinkedList", () => {
 
     let list;
 
